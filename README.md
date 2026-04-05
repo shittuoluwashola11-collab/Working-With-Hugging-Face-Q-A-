@@ -11,7 +11,7 @@ This project demonstrates how to use the `distilbert-base-cased-distilled-squad`
 * **Language:** Python 3.8.10 
 * **PDF Parsing:** `pypdf` 
 * **NLP Framework:** `transformers` (Hugging Face) 
-* [cite_start]**Model:** `distilbert-base-cased-distilled-squad` 
+* **Model:** `distilbert-base-cased-distilled-squad` 
 
 ## 📋 Features & Policy Extraction
 The system is capable of extracting and answering questions regarding:
